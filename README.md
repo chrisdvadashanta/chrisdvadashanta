@@ -1,16 +1,19 @@
-### Hi there 👋
+## 👋 Hi there! ## 
+I'm a Full-Stack Developer based in Berlin, on a continuous journey of learning and growth in the tech world. I'm passionate about crafting intuitive, scalable, and sustainable web solutions from frontend to backend.
 
-<!--
-**chrisdvadashanta/chrisdvadashanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Technical Skills: ##
 
-Here are some ideas to get you started:
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js, Express
+Database: SQL, MongoDB
+Tools: Git, Docker, CI/CD
+🌱 I'm an advocate for sustainability and I strive to incorporate eco-friendly practices in my code and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧗‍♂️ When I'm not coding, you'll find me scaling walls or practicing yoga. These activities not only keep me fit but also serve as a metaphor for overcoming challenges in my coding journey.
+
+## 🌿 Personal Interests: ##
+
+Climbing
+Sustainability
+Yoga
+🤝 Open to collaboration and always eager to tackle new challenges. Let's connect!
